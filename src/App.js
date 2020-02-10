@@ -93,7 +93,7 @@ export class App extends Component{
         
         let inputType = this.searchLogic(input);
         let apiCall = this.weatherApiSwitch(inputType);
-        fetch(apiCall)
+        fetch(apiCall,{mode:'cors'})
             .then((results) => results.json())
             .then((weather) => {
                 console.log(weather)
