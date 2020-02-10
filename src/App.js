@@ -83,7 +83,7 @@ export class App extends Component{
                 innerBit = `lat=${this.state.location.lat}&lon=${this.state.location.long}`
                 break;
         }
-        return `https://crossorigin.me/http://api.openweathermap.org/data/2.5/weather?units=${unit}&${innerBit}&APPID=${apiKey}`
+        return `https://api.openweathermap.org/data/2.5/weather?units=${unit}&${innerBit}&APPID=${apiKey}`
     }
     assignColor = ()=>{
         let tempClass = colorCoder(this.state.colorCode);
