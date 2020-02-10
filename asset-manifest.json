@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/weatherCard/static/js/main.7c509a60.chunk.js",
-    "main.js.map": "/weatherCard/static/js/main.7c509a60.chunk.js.map",
+    "main.js": "/weatherCard/static/js/main.61fa8200.chunk.js",
+    "main.js.map": "/weatherCard/static/js/main.61fa8200.chunk.js.map",
     "runtime-main.js": "/weatherCard/static/js/runtime-main.022d3bff.js",
     "runtime-main.js.map": "/weatherCard/static/js/runtime-main.022d3bff.js.map",
     "static/js/2.c4a648b4.chunk.js": "/weatherCard/static/js/2.c4a648b4.chunk.js",
     "static/js/2.c4a648b4.chunk.js.map": "/weatherCard/static/js/2.c4a648b4.chunk.js.map",
     "index.html": "/weatherCard/index.html",
-    "precache-manifest.f50f1fbe7b805c56403303a0b421b6f2.js": "/weatherCard/precache-manifest.f50f1fbe7b805c56403303a0b421b6f2.js",
+    "precache-manifest.4a67b20bbff2fa74f36ac3e3cddf5dd6.js": "/weatherCard/precache-manifest.4a67b20bbff2fa74f36ac3e3cddf5dd6.js",
     "service-worker.js": "/weatherCard/service-worker.js",
     "static/js/2.c4a648b4.chunk.js.LICENSE.txt": "/weatherCard/static/js/2.c4a648b4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.022d3bff.js",
     "static/js/2.c4a648b4.chunk.js",
-    "static/js/main.7c509a60.chunk.js"
+    "static/js/main.61fa8200.chunk.js"
   ]
 }
